@@ -84,7 +84,7 @@ export const config = {
     "category": "科研论文"
   },
   ],
-  maxItemsPerFeed: 30,
+  maxItemsPerFeed: 50,
   dataPath: "./data",
 }
 
