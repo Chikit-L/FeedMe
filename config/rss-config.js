@@ -23,7 +23,6 @@ export const config = {
       url: "https://feeds.science.org/rss/science.xml",
       category: "科研论文",
     },
-    [
   {
     "name": "谷歌学术：karst",
     "url": "https://rsshub.rssforever.com/google/scholar/hl=en&as_sdt=0,5&q=karst&scisbd=1",
