@@ -14,6 +14,12 @@
 export const config = {
   sources: [
     {
+      name: "Journal of Hydrology",
+      url: "https://rss.sciencedirect.com/publication/science/00221694",
+      category: "科研论文",
+    },
+
+    {
       name: "Hacker News 近期最佳",
       url: "https://hnrss.org/best",
       category: "科技资讯",
